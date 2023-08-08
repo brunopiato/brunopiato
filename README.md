@@ -38,7 +38,6 @@ I'm an evolutionary biologist turning into a data scientist. In my masters I foc
   <img align="center" src="https://img.shields.io/badge/Linux-color?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
 </div>
 
----
 # Main Projects
 
 ## Steelcase Inc. customers clusterization
