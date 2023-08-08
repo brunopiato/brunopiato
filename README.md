@@ -37,3 +37,26 @@ I'm an evolutionary biologist turning into a data scientist. In my masters I foc
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Linux-color?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
 </div>
+
+---
+# Main Projects
+
+## Steelcase Inc. customers clusterization
+
+Steelcase Inc. id a big company based on the United States of America. They manufacture and sell furniture, casegoods, seating, and storage and partitioning systems for offices, hospitals, classrooms, and residential interiors.
+
+## Rossmann sales prediction
+
+Rossmann company operates over 4,000 drugstores around European countries such as Germany, Poland, Hungary, the Czech Republic, Turkey, Albania, Kosovo, Israel and Spain with a revenue of over €10 billion.
+
+In 2015 they published their data on Kaggle and created a Kaggle competition. The main goal was to predict the sales for the next 6 weeks once the CFO was intending to invest in improvements to the stores.
+
+## InStyle NPS customers satisfaction prediction
+
+In this project we used a Kaggle dataset to train a supervised learning classification algorithm to predict the customer's satisfaction with the InStyle stores based on the Network Promoter Score and the client's experience.
+
+## NBAdex WebApp
+
+The NBA Players Dex is an app in which the NBA fan can visualize and inspect some data about their favorite player, comparing different player to visually access their similarity.
+
+It can be acessed [here](https://brunopiato-nbadex--home-ema0lf.streamlit.app/).
