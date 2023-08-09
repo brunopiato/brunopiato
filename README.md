@@ -38,26 +38,26 @@ Feel free to browse around and get in touch with me in case I can help you with 
 
 # Main Projects
 
-## Steelcase Inc. customers clusterization
+## <a href="https://github.com/brunopiato/SteelcaseInc">Steelcase Inc. customers clusterization</a>
 
 Steelcase Inc. id a big company based on the United States of America. They manufacture and sell furniture, casegoods, seating, and storage and partitioning systems for offices, hospitals, classrooms, and residential interiors.
 
-## Rossmann sales prediction
+## <a href="https://github.com/brunopiato/RossmannProject">Rossmann sales prediction</a>
 
 Rossmann company operates over 4,000 drugstores around European countries such as Germany, Poland, Hungary, the Czech Republic, Turkey, Albania, Kosovo, Israel and Spain with a revenue of over €10 billion.
 
 In 2015 they published their data on Kaggle and created a Kaggle competition. The main goal was to predict the sales for the next 6 weeks once the CFO was intending to invest in improvements to the stores.
 
-## InStyle NPS customers satisfaction prediction
+## <a href="https://github.com/brunopiato/InStyleNPS">InStyle NPS customers satisfaction prediction</a>
 
 In this project we used a Kaggle dataset to train a supervised learning classification algorithm to predict the customer's satisfaction with the InStyle stores based on the Network Promoter Score and the client's experience.
 
-## NBAdex WebApp
+## <a href="https://github.com/brunopiato/NBADex">NBAdex WebApp</a>
 
 The NBA Players Dex is an app in which the NBA fan can visualize and inspect some data about their favorite player, comparing different player to visually access their similarity.
 
-It can be acessed [here](https://brunopiato-nbadex--home-ema0lf.streamlit.app/).
+The WebApp can be accessed [here](https://brunopiato-nbadex--home-ema0lf.streamlit.app/).
 
-## Machine Learning algorithms essay
+## <a href="https://github.com/brunopiato/MachineLearning_Essay">Machine Learning algorithms essay</a>
 
 An essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, ten regression models and three clustering algorithms.
