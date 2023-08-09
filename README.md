@@ -1,15 +1,13 @@
 ## Hello, my name is Bruno Piato
-I'm an evolutionary biologist turning into a data scientist. In my masters I focused on evolutionary genetics and climate changes wich gave access to learn R programming language. Currently I am developing my Python skills along with Machine Learning and Data Analytics knowledge. 
+I'm a data scientist interested in provide companies with insights taken from my skills in machine learning and statistics. 
 
-- 🔭 I’m currently working on an app to easily visualize NBA player's data (https://nbadex.streamlit.app).
-- 🌱 I’m currently studying Machine Learning algorithms and Python programming.
-- :scroll: I'm currently writing in my Medium blog https://medium.com/thevirtualenvironmentalist
-- 👯 I’m looking to collaborate on Machine Learning and Data Science projects.
-- 🤔 I’m looking for help with new job opportunities.
-- 📫 How to reach me: brunogpiato@gmail.com
-- ⚡ Fun fact: I am a hobbiest knifemaker.
-  
-  **Contact:** <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn">
+My first bachelor degree was in biology and in my masters I focused on evolutionary genetics and climate changes which gave access to learn R programming language and get in love with data science and analytics. 
+
+Currently I am developing my Python skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be regarded here.
+
+Feel free to browse around and get in touch with me in case I can help you with anything else. 
+
+  **Contact:** brunogpiato@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
 
 
 ## Some Tools I work with
@@ -17,7 +15,6 @@ I'm an evolutionary biologist turning into a data scientist. In my masters I foc
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<!--     <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
   <img align="center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
@@ -26,16 +23,17 @@ I'm an evolutionary biologist turning into a data scientist. In my masters I foc
 </div>
 <div>
 <br />
-<!--     <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> -->
-<!--     <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> -->
   <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white">
-<!--   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> -->
-<!--   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
-<!--   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Linux-color?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
+<!--     <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> -->
+<!--     <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
+<!--     <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> -->
+<!--   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> -->
+<!--   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+<!--   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
 </div>
 
 # Main Projects
@@ -59,3 +57,7 @@ In this project we used a Kaggle dataset to train a supervised learning classifi
 The NBA Players Dex is an app in which the NBA fan can visualize and inspect some data about their favorite player, comparing different player to visually access their similarity.
 
 It can be acessed [here](https://brunopiato-nbadex--home-ema0lf.streamlit.app/).
+
+## Machine Learning algorithms essay
+
+An essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, ten regression models and three clustering algorithms.
