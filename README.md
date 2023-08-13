@@ -38,10 +38,6 @@ Feel free to browse around and get in touch with me in case I can help you with 
 
 # Main Projects
 
-## <a href="https://github.com/brunopiato/SteelcaseInc">Steelcase Inc. customers clusterization</a>
-
-Steelcase Inc. id a big company based on the United States of America. They manufacture and sell furniture, casegoods, seating, and storage and partitioning systems for offices, hospitals, classrooms, and residential interiors.
-
 ## <a href="https://github.com/brunopiato/RossmannProject">Rossmann sales prediction</a>
 
 Rossmann company operates over 4,000 drugstores around European countries such as Germany, Poland, Hungary, the Czech Republic, Turkey, Albania, Kosovo, Israel and Spain with a revenue of over €10 billion.
