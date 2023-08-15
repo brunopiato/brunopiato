@@ -57,3 +57,7 @@ The WebApp can be accessed [here](https://brunopiato-nbadex--home-ema0lf.streaml
 ## <a href="https://github.com/brunopiato/MachineLearning_Essay">Machine Learning algorithms essay</a>
 
 An essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, ten regression models and three clustering algorithms.
+
+## <a href="https://github.com/DataSolvers/IBM_EmployeeAttrition/tree/brunopiato">IBM Employee Attrition forecasting</a>
+
+Employee attrition can be a big money sink for companies. Forecasting the employees with biggest attrition probabilities can be a strategic way to save money by understanding the main reason they would leave the company and act to prevent it.
