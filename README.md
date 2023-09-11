@@ -8,6 +8,8 @@ Currently I am developing my Python skills along with Machine Learning and Data 
 Feel free to browse around and get in touch with me in case I can help you with anything else. 
 
   **Contact:** brunogpiato@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
+  
+  **[Curriculum Vitae](Curriculum_BrunoPiato.pdf)**
 
 
 ## Some Tools I work with
