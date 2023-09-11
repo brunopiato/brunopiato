@@ -9,7 +9,7 @@ Feel free to browse around and get in touch with me in case I can help you with 
 
   **Contact:** brunogpiato@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
   
-  **[Curriculum Vitae](Curriculum_BrunoPiato.pdf)**
+  **[Curriculum Vitae](https://github.com/brunopiato/portfolio/blob/8074e0e80d84dc5d8cb8cc46ffbf13529a79037d/Curriculum_BrunoPiato.pdf)**
 
 
 ## Some Tools I work with
