@@ -54,7 +54,7 @@ In this project we used a Kaggle dataset to train a supervised learning classifi
 
 The NBA Players Dex is an app in which the NBA fan can visualize and inspect some data about their favorite player, comparing different player to visually access their similarity.
 
-The WebApp can be accessed [here](https://brunopiato-nbadex--home-ema0lf.streamlit.app/).
+The WebApp can be accessed [here](https://nbadex.streamlit.app/).
 
 ## <a href="https://github.com/brunopiato/MachineLearning_Essay">Machine Learning algorithms essay</a>
 
