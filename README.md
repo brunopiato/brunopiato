@@ -1,9 +1,9 @@
 ## Hello, my name is Bruno Piato
-I'm a data scientist interested in provide companies with insights taken from my skills in machine learning and statistics. 
+I'm a data scientist interested in providing companies with insights taken from data using my skills in machine learning and statistics. 
 
-My first bachelor degree was in biology and in my masters I focused on evolutionary genetics and climate changes which gave access to learn R programming language and get in love with data science and analytics. 
+My first bachelor degree was in Biology and in my masters I focused on Evolutionary Genetics and climate changes, which gave access to learn R programming language and get in love with data science and analytics. 
 
-Currently I am developing my Python skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be regarded here.
+Currently I am studying Data Science at UNIVESP university and developing my Python programming skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be checked outin this GitHub profile page.
 
 Feel free to browse around and get in touch with me in case I can help you with anything else. 
 
