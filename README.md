@@ -3,7 +3,7 @@ I'm a data scientist interested in providing companies with insights taken from 
 
 My first bachelor degree was in Biology and in my masters I focused on Evolutionary Genetics and climate changes, which gave access to learn R programming language and get in love with data science and analytics. 
 
-Currently I am studying Data Science at UNIVESP university and developing my Python programming skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be checked outin this GitHub profile page.
+Currently I am studying Data Science at Fatec Jundiaí university and developing my Python programming skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be checked outin this GitHub profile page.
 
 Feel free to browse around and get in touch with me in case I can help you with anything else. 
 
