@@ -3,9 +3,9 @@ I'm a data scientist interested in providing companies with insights taken from 
 
 My first bachelor degree was in Biology and in my masters I focused on Evolutionary Genetics and climate changes, which gave access to learn R programming language and get in love with data science and analytics. 
 
-Currently I am studying Data Science at Fatec Jundiaí university and developing my Python programming skills along with Machine Learning and Data Analytics knowledge through several portfolio projects that can be checked outin this GitHub profile page.
+Currently I am pursuing a Bachelor degree in Data Sciences at Universidade Virtual do Estado de São Paulo (UNIVESP) university and working in several projects ainding companies to gain more data maturity, build a more data driven culture, implementing data pipelines, ETL/ELT processes, training ML models to better decision making and acting alongside different team and areas to better understand businnesses needs and pains to be solved.
 
-Feel free to browse around and get in touch with me in case I can help you with anything else. 
+Feel free to browse around and get in touch with me. 
 
   **Contact:** brunogpiato@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
   
