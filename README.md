@@ -1,18 +1,36 @@
-## Hello, my name is Bruno Piato
-I'm a data scientist interested in providing companies with insights taken from data using my skills in machine learning and statistics. 
+## 👋 Hello, I'm Bruno Piato
 
-My first bachelor degree was in Biology and in my masters I focused on Evolutionary Genetics and climate changes, which gave access to learn R programming language and get in love with data science and analytics. 
+I'm a Data Engineer with a strong Machine Learning background.
 
-Currently I am pursuing a Bachelor degree in Data Sciences at Universidade Virtual do Estado de São Paulo (UNIVESP) university and working in several projects ainding companies to gain more data maturity, build a more data driven culture, implementing data pipelines, ETL/ELT processes, training ML models to better decision making and acting alongside different team and areas to better understand businnesses needs and pains to be solved.
+I build data pipelines, design ETL/ELT workflows and develop ML models that help turn raw data into better decisions. I enjoy working at the intersection of engineering, analytics and business problems.
 
-Feel free to browse around and get in touch with me. 
+Currently working at 4flow, contributing to data-driven initiatives by developing pipelines, improving data processes and supporting decision-making with predictive models.
 
-  **Contact:** brunogpiato@gmail.com or <a href="https://www.linkedin.com/in/piatobruno/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
-  
-  **[Curriculum Vitae](https://github.com/brunopiato/portfolio/blob/8074e0e80d84dc5d8cb8cc46ffbf13529a79037d/Curriculum_BrunoPiato.pdf)**
+## 🛠 Tech Stack
 
+**Data Engineering:**  
+Python • SQL • PostgreSQL • BigQuery • ETL/ELT • Data Modeling  
 
-## Some Tools I work with
+**Machine Learning:**  
+scikit-learn • Statistical Modeling • Feature Engineering  
+
+**Cloud & Tools:**  
+Azure • GCP • Git • Linux • Streamlit  
+
+## 🎓 Background
+
+Bachelor’s in Biology  
+Master’s in Evolution & Biodiversity  
+Currently pursuing a Bachelor’s in Data Science (UNIVESP)
+
+My academic research focused on climate change and genetic diversity, where I worked heavily with statistics, R and machine learning — which led me into the data field.
+
+## 📫 Contact
+
+**Email:** brunogpiato@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/piatobruno/  
+**CV:** https://github.com/brunopiato/portfolio/blob/main/Curriculum_BrunoPiato.pdf
+
 <!-- Tools  -->
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,41 +43,19 @@ Feel free to browse around and get in touch with me.
 </div>
 <div>
 <br />
-  <img align="center" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" src="https://img.shields.io/badge/Linux-color?style=for-the-badge&logo=linux&logoColor=white&color=orange" />
-<!--     <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> -->
-<!--     <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
-<!--     <img align="center" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /> -->
-<!--   <img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> -->
-<!--   <img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> -->
-<!--   <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> -->
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/LangGraph-darkgreen?style=for-the-badge&logo=langgraph&logoColor=white" />
 </div>
-
-# Main Projects
-
-## <a href="https://github.com/brunopiato/RossmannProject">Rossmann sales prediction</a>
-
-Rossmann company operates over 4,000 drugstores around European countries such as Germany, Poland, Hungary, the Czech Republic, Turkey, Albania, Kosovo, Israel and Spain with a revenue of over €10 billion.
-
-In 2015 they published their data on Kaggle and created a Kaggle competition. The main goal was to predict the sales for the next 6 weeks once the CFO was intending to invest in improvements to the stores.
-
-## <a href="https://github.com/brunopiato/InStyleNPS">InStyle NPS customers satisfaction prediction</a>
-
-In this project we used a Kaggle dataset to train a supervised learning classification algorithm to predict the customer's satisfaction with the InStyle stores based on the Network Promoter Score and the client's experience.
-
-## <a href="https://github.com/brunopiato/NBADex">NBAdex WebApp</a>
-
-The NBA Players Dex is an app in which the NBA fan can visualize and inspect some data about their favorite player, comparing different player to visually access their similarity.
-
-The WebApp can be accessed [here](https://nbadex.streamlit.app/).
-
-## <a href="https://github.com/brunopiato/MachineLearning_Essay">Machine Learning algorithms essay</a>
-
-An essay is the best way to compare different algorithms and hyperparameter fine-tuning in terms of their performance metrics. Here I tested five classification algorithms, ten regression models and three clustering algorithms.
-
-## <a href="https://github.com/DataSolvers/IBM_EmployeeAttrition/tree/brunopiato">IBM Employee Attrition forecasting</a>
-
-Employee attrition can be a big money sink for companies. Forecasting the employees with biggest attrition probabilities can be a strategic way to save money by understanding the main reason they would leave the company and act to prevent it.
+<div>
+<br />
+  <img align="center" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/Snowflake-%2329B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/kubernetes-%23326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <!-- <img align="center" src="" /> -->
+</div>
