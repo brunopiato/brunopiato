@@ -1,36 +1,36 @@
 ## 👋 Hello, I'm Bruno Piato
 
-I'm a Data Engineer with a strong Machine Learning background.
+I'm a Data Engineer with a strong background in Machine Learning and statistics.
 
-I build data pipelines, design ETL/ELT workflows and develop ML models that help turn raw data into better decisions. I enjoy working at the intersection of engineering, analytics and business problems.
+I enjoy building reliable data pipelines, designing ETL/ELT workflows and developing predictive models that actually get used. Most of my work sits at the intersection of data engineering, analytics and real business problems.
 
-Currently working at 4flow, contributing to data-driven initiatives by developing pipelines, improving data processes and supporting decision-making with predictive models.
+Currently, I work at **4flow**, where I help strengthen a data-driven culture by improving data processes, building pipelines and supporting decision-making with ML solutions.
 
-## 🛠 Tech Stack
 
-**Data Engineering:**  
-Python • SQL • PostgreSQL • BigQuery • ETL/ELT • Data Modeling  
+## 🛠 What I Work With
 
-**Machine Learning:**  
-scikit-learn • Statistical Modeling • Feature Engineering  
+Python • SQL • PostgreSQL • BigQuery  
+ETL/ELT • Data Modeling  
+scikit-learn • Statistical Modeling  
+Azure • GCP • Git • Linux  
 
-**Cloud & Tools:**  
-Azure • GCP • Git • Linux • Streamlit  
 
 ## 🎓 Background
 
-Bachelor’s in Biology  
-Master’s in Evolution & Biodiversity  
-Currently pursuing a Bachelor’s in Data Science (UNIVESP)
+I started in Biology, completed a Master’s in Evolution & Biodiversity and researched how climate change affects genetic diversity in natural populations.
 
-My academic research focused on climate change and genetic diversity, where I worked heavily with statistics, R and machine learning — which led me into the data field.
+That work required heavy use of statistics, R and machine learning — and that’s when I realized I wanted to work with data full time.
 
-## 📫 Contact
+Now I’m also pursuing a Bachelor’s in Data Science (UNIVESP) to deepen my engineering and computational foundation.
+
+
+## 📫 Get in Touch
 
 **Email:** brunogpiato@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/piatobruno/  
 **CV:** https://github.com/brunopiato/portfolio/blob/main/Curriculum_BrunoPiato.pdf
 
+<br>
 <!-- Tools  -->
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
